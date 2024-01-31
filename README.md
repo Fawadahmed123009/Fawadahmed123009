@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fawadahmed123009
-- 👀 I’m interested in Software development as well as web application development
+- 👀 I’m interested in learning AI and ML
 - 🌱 I’m currently learning Computer Science from FAST NUCES LAHORE
 - 📫 How to reach me fawad123009@gmail.com 
 - 📫 Connect with me on linkedin https://www.linkedin.com/in/fawad-ahmed-153048228 
